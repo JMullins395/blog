@@ -5,3 +5,13 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+body {
+  color: crimson;
+  
+}
+
+h2 {
+  font-size: 1.25em;
+  color: darkblue;
+}

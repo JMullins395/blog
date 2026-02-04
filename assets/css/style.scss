@@ -7,7 +7,7 @@
   "minima/initialize";
 
 body {
-  color: crimson;
+  color: red;
   
 }
 
@@ -15,5 +15,21 @@ h3 {
   text-decoration: underline;
   font-style: italic;
   font-size: 1.25em;
-  color: darkblue
+  color: chartreuse;
+  text-align: center;
+}
+
+.post-header {
+  font-family: "Black Ops One", system-ui;
+  background-color: white;
+}
+
+.post-content {
+  font-family: "Special Elite", system-ui;
+  background-color: black;
+  margin: 20px;
+  padding: 20px;
+  border-style:double;
+  border-color: darkgray;
+  border-width: 10px;
 }

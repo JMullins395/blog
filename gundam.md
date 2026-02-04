@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Gundam
-permalink: /about/
 ---
 
 This is a little page where I decided to put some info about one of my favorite media franchises: the Gundam franchise!  There are a lot of entries to the series, starting with the original [Mobile Suit Gundam](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam), which aired in 1979.  
